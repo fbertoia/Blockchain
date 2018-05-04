@@ -23,5 +23,27 @@ Trust is not always a 'pain point'. When depositing funds in a bank, trust comes
 
 Monax prefers verifiability instead of trustlessness. It tends to invent business process automation between stakeholders that includes verifiability.
 
+## Smart Contracts
+From [Monax article about smart contracts](https://monax.io/learn/smart_contracts/)
+Smart contracts have visility accross the blockchain. Anyone can have access to the contract itself and the code.
+
+Without this system, companies may have to implement redundant softwares to monitor and track data interactions for a given deal. Conversely, having access to the blockchain lead to being able to verify the entirety of the interactions and the history of the data set.
+- Benefits come with multi-interactions parties and avoiding redundancies of data and scripting capabilities.
+- No real contracts : not enforceable. For the foreseeable future, they will not be enforceable in any court, and few parties will be able to rely on smart contract technology alone. 
+
+### Are smart contracts more than a python script?
+In case of API, no one knows what is happening between the request and response. 
+Also, scripts can read top level environment variables and run differently on a different version of their language, and therefor have different outcomes.
+
+Smart contracts allows user to predict the output, every compute step along the logic sequence is verified by every node on the network.
+
+However, blockchain smart contracts cannot ensure privacy.
+
+## Smart contracts v. Tokenized approaches
+From [Monax article](https://monax.io/learn/contracts_v_tokens/)
+##### Advantage of token 
+Token are usually used to track pieces of property and the transactions in their blockchains represent veriable title transfer.
+
+##### Disadvantage of token 
 
 
