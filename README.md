@@ -38,12 +38,3 @@ Also, scripts can read top level environment variables and run differently on a 
 Smart contracts allows user to predict the output, every compute step along the logic sequence is verified by every node on the network.
 
 However, blockchain smart contracts cannot ensure privacy.
-
-## Smart contracts v. Tokenized approaches
-From [Monax article](https://monax.io/learn/contracts_v_tokens/)
-##### Advantage of token 
-Token are usually used to track pieces of property and the transactions in their blockchains represent veriable title transfer.
-
-##### Disadvantage of token 
-
-
