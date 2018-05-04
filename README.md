@@ -15,4 +15,13 @@ Permissioned blockchains (PB) do not differ from Unpermissioned Blockchains (pub
 
 - ***PB are more cost efficient*** : PB ensure security on blockchain and avoid any attack vector. (Infinite loops can be handle in a different manner than relying upon pricing dynamics).
 
-- ***Security*** : 
+- ***Security*** : Article unclear on this part
+
+Most blockchains are designed to withstand trustless nodes, which brings about limitations. For instance, 'Bitcoin is a trustless environment, the system was designed so that nobody has to trust anybody else in order for the system to function'. [Quora](https://www.quora.com/What-does-it-mean-that-Bitcoin-is-trustless).
+
+Trust is not always a 'pain point'. When depositing funds in a bank, trust comes in to believe that account are safely kept. Moreover, if one makes a mistake, human discretion is usually required to remedy those mistakes. If a mechanism cannot be broken, it cannot be repaired nor reversed.
+
+Monax prefers verifiability instead of trustlessness. It tends to invent business process automation between stakeholders that includes verifiability.
+
+
+
